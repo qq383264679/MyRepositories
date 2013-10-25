@@ -43,5 +43,6 @@
 	<body>
 		<iframe src="hello.jsp" name="iframe_a" width="100%" height="100%" frameborder="0"></iframe>
 		<input type="button" value="按钮" onclick="click1()" />
+		<h1>我们的爱 哈在不在</h1>
 	</body>
 </html>
